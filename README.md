@@ -1,4 +1,4 @@
-# state_management_demo
+# Inherited Widget Demo
 
 A new Flutter project.
 
